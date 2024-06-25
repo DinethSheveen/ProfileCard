@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 void main(){
   runApp(MaterialApp(
-    home : Profile()
+    home : ProfileCard()
   ));
 }
 
-class Profile extends StatelessWidget {
+class ProfileCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
