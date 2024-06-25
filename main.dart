@@ -6,7 +6,7 @@ void main(){
   ));
 }
 
-class NinjaCard extends StatelessWidget {
+class Profile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
